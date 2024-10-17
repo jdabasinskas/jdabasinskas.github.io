@@ -1,0 +1,33 @@
+body{
+   background-image: url(backgroundimage.png);
+   background-position: center; 
+   background-repeat: no-repeat;
+   
+}
+p{
+    font-size: 14 px;
+    color:rgb(160, 0, 0)
+}
+h2{
+    color:navy
+}
+h3{
+    color:navy
+}
+ul{
+    color:rgb(160, 0, 0)
+}
+li{
+    color:rgb(160, 0, 0)
+}
+h1{
+    color:navy;
+}
+.specialheading1 {
+color:navy;
+}
+
+a:hover {
+    font-style: bold;
+    font-size: 20px
+}
